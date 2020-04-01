@@ -1,6 +1,6 @@
 {
   "name": "benny-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a benny cli collection",
   "main": "index.js",
   "bin": {
