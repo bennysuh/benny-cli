@@ -1,0 +1,33 @@
+{
+  "name": "benny-cli",
+  "version": "1.0.0",
+  "description": "a benny cli collection",
+  "main": "index.js",
+  "bin": {
+    "benny-cli": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.20.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennysuh/benny-cli.git"
+  },
+  "keywords": [
+    "react",
+    "vue",
+    "antd"
+  ],
+  "author": "benny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennysuh/benny-cli/issues"
+  },
+  "homepage": "https://github.com/bennysuh/benny-cli#readme"
+}
